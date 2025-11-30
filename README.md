@@ -76,7 +76,7 @@ These insights can be useful for **marketing strategy, sales planning, pricing d
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/Ad-Hoc-Consumer-Goods-Insights.git
+   git clone https://github.com/<harinagasree>/Ad-Hoc-Consumer-Goods-Insights.git
    ```
 2. Import the database into MySQL / Workbench
 3. Run the SQL script `ad-hoc-requests.sql`
