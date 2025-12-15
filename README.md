@@ -32,7 +32,7 @@ Using this data, multiple ad-hoc requests were solved using **SQL queries** to s
 📁 Ad-Hoc-Consumer-Goods-Insights
 │── 📄 README.md
 │── 📄 ad-hoc-requests.sql        → SQL answers for all requests
-│── 📊 AtliQ_SQL_Insights.pptx    → Presentation summarizing findings
+│── 📊 AtliQ_SQL_Insights.pdf    → Presentation summarizing findings
 ```
 
 ---
@@ -55,7 +55,7 @@ These insights can be useful for **marketing strategy, sales planning, pricing d
 | ------------------------- | ---------------------------------- |
 | **MySQL / SQL Workbench** | Data querying & analysis           |
 | **Power BI**              | Dashboard creation & visualization |
-| **Microsoft PowerPoint**  | Project summary presentation       |
+| **Presentation**          | Project summary presentation       |
 | **GitHub**                | Version control & documentation    |
 
 ---
@@ -65,7 +65,7 @@ These insights can be useful for **marketing strategy, sales planning, pricing d
 | File                      | Description                                       |
 | ------------------------- | ------------------------------------------------- |
 | `ad-hoc-requests.sql`     | Complete SQL solutions for all business questions |
-| `AtliQ_SQL_Insights.pptx` | Final presentation for stakeholders               |
+| `AtliQ_SQL_Insights.pdf` | Final presentation for stakeholders               |
 | `README.md`               | Documentation for repository                      |
 
 ---
