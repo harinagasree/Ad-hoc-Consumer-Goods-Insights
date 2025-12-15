@@ -65,7 +65,6 @@ These insights can be useful for **marketing strategy, sales planning, pricing d
 | File                      | Description                                       |
 | ------------------------- | ------------------------------------------------- |
 | `ad-hoc-requests.sql`     | Complete SQL solutions for all business questions |
-| `PowerBI_Dashboard.pbix`  | Visual insights dashboard                         |
 | `AtliQ_SQL_Insights.pptx` | Final presentation for stakeholders               |
 | `README.md`               | Documentation for repository                      |
 
